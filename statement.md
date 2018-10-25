@@ -11,7 +11,7 @@ int main() {
 
 ```
 
-#Quizz
+# Quizz
 ?[What is the answer to Life, the Universe and Everything?]
 -[ ] There is no answer to that!
 -[ ] Sleep and eat
