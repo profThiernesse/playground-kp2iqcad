@@ -10,10 +10,10 @@ J'écris ici des informations concernant mon chapitre
 1. Troisième
 ### Du code
 ``` C runnable
-{ autofold
+// { autofold
 #include <stdio.h>
 #include <stdlib.h>
-}
+// }
 int main() {
     int a,b,c;
     a=5;
