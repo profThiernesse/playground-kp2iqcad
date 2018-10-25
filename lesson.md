@@ -8,3 +8,11 @@ J'écris ici des informations concernant mon chapitre
 1. Premier
 1. Deuxième
 1. Troisième
+### Du code
+``` C
+int a,b,c;
+a=5;
+b=6;
+c=a+b;
+printf("%d",c);
+```
