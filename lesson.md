@@ -9,7 +9,7 @@ J'écris ici des informations concernant mon chapitre
 1. Deuxième
 1. Troisième
 ### Du code
-``` C
+``` C runnable
 int a,b,c;
 a=5;
 b=6;
