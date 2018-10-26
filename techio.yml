@@ -4,7 +4,7 @@ plan:
   statement: statement.md
 - title : Test
   statement: lesson.md
-- projects:
+projects:
   - C:
     - root: "/projet"
     # Set the docker image. This image runs GCC with the help of CMake:
