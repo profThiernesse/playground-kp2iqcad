@@ -5,7 +5,7 @@ J'écris ici des informations concernant mon chapitre
 |-------|-----|
 |Mon contenu|La suite du contenu|
 ### Liste des points à réaliser
-@[Code Editor Title]({"stubs": ["main.c"]})
+
 1. Premier
 1. Deuxième
 1. Troisième
