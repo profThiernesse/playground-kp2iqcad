@@ -4,10 +4,10 @@ plan:
   statement: statement.md
 - title : Test
   statement: lesson.md
-projects:
-  C:
-    root: "/projet"
+- projects:
+  - C:
+    - root: "/projet"
     # Set the docker image. This image runs GCC with the help of CMake:
     # @[Code Editor Title]({"stubs": ["EditorFile1.h", "EditorFile2.cpp", ...], "command": "run.sh"})
     # More details here: https://github.com/TechDotIO/cmake-gcc-runner
-  runner: techio/cmake-gcc-runner:latest
+  - runner: techio/cmake-gcc-runner:latest
