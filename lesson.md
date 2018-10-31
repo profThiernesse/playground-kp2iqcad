@@ -9,6 +9,7 @@ J'écris ici des informations concernant mon chapitre
 1. Premier
 1. Deuxième
 1. Troisième
+1. Quatrième
 ### Du code
 ``` C runnable
 // { autofold
